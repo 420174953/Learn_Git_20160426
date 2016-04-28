@@ -7,4 +7,5 @@ Add new line in readme.txt!
 
 20160428：New UDPLink！
 
-create a new branch is quick & simple!
+Create a new branch is quick and simple！
+
